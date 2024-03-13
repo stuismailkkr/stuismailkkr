@@ -8,4 +8,4 @@ My Goals
 I aspire to specialize in full-stack web development in my career and acquire in-depth knowledge in this field.
 
 Contact Information
-LinkedIn: Ismail Küçükkör
+LinkedIn: Ismail Küçükkör: https://tr.linkedin.com/in/ismail-k%C3%BC%C3%A7%C3%BCkk%C3%B6r-3341171b2
